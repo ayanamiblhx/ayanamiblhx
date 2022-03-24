@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](http://antzuhl.cn:4000/get/@ayanamiblhx.readme)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanamiblhx)](https://github.com/anuraghazra/github-readme-stats)
