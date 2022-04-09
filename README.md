@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Total Visitors](https://count.getloli.com/get/@ayanamiblhx?theme=rule34)
-<br>
+![Total Visitors](https://count.getloli.com/get/@ayanamiblhx?theme=rule34)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanamiblhx&layout=compact&exclude_repo=docs,ayanamiblhx.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanamiblhx)](https://github.com/anuraghazra/github-readme-stats)
